@@ -15,5 +15,6 @@ int main()
     cout << "Nilai dari C : " << *c << endl;
 
     //reference
+    int &d = b;
     
 }
