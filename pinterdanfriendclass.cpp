@@ -18,4 +18,7 @@ int main()
     int &d = b;
     cout << "Nilai " << d << endl;
     cout << "reference " << &d << endl;
+
+    int f = 5;
+    int g = f;
 }
